@@ -1,0 +1,16 @@
+server:
+  port: 9004
+
+Spring:
+  application:
+    name: nacos-payment-provider
+  cloud:
+    nacos:
+      discovery:
+        server-addr: localhost:8850 #配置nocas地址
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: '*'
