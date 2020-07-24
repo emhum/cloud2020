@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="spring-boot-starter-web-2.2.2.RELEASE">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../../repository-aliyun/org/springframework/boot/spring-boot-starter-web/2.2.2.RELEASE/spring-boot-starter-web-2.2.2.RELEASE.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
