@@ -1,7 +1,9 @@
 target/
 .idea/*
+.idea/workspace.xml
 *.log
 out/
 *.class
 *.jar
 *.war
+*.iml
